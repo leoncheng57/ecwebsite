@@ -4,11 +4,12 @@
 
 In Terminal,
 
-$ python app.py
+<code>python app.py</code>
+
 
 In Browser,
 
-localhost:8000
+<code>localhost:8000</code>
 
 ## TODO
 - [ ] Use a db
