@@ -7,6 +7,18 @@ app = Flask(__name__)
 def home():
     return render_template("home.html")
 
+@app.route("/about")
+def about():
+    return render_template("about.html")
+
+@app.route("/profiles")
+def profiles():
+    return render_template("profiles.html")
+
+@app.route("/apply")
+def apply():
+    return render_template("apply.html")
+
 if __name__ == "__main__":
     app.debug = True
     app.secret_key = "adashljdoiqdm"
