@@ -26,3 +26,9 @@ In Browser,
   - [ ] Edit profiles
   - [ ] Remove profiles
 - [ ] Put on DO to host online
+
+## MORE IDEAS
+- [ ] A forum for q&a
+- [ ] Pictures page
+- [ ] Testimonials
+
